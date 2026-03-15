@@ -3,7 +3,7 @@
 🎓 Computer Science Student | Nagpur, India
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Language:** Java (Basics), JavaScript
