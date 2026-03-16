@@ -15,5 +15,6 @@
 - 💼 Currently interning as **Web Developer** at **Botmartz IT Solutions**
   
 ## 📫 Connect with Me
-- LinkedIn:- https://www.linkedin.com/in/tushar-shinde-b274382b7/
-- Email:- shindet035@gmail.com
+- 🌐 Portfolio:- 
+- 🔗 LinkedIn:- https://www.linkedin.com/in/tushar-shinde-b274382b7/
+- ✉️ Email:- shindet035@gmail.com
